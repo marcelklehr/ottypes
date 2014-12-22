@@ -1,0 +1,17 @@
+{
+"name": "ottypes",
+"repo": "marcelklehr/ottypes",
+"description": "OT managing library",
+"version": "1.0.1",
+"dependencies": { },
+"license": "MIT",
+"main": "lib/index.js",
+"scripts": [
+  "lib/index.js",
+  "lib/text.js",
+  "lib/text-tp.js",
+  "lib/text0.js",
+  "lib/json0.js",
+  "lib/simple.js"
+  ]
+}

@@ -12,6 +12,7 @@
   "lib/text-tp2.js",
   "lib/text0.js",
   "lib/json0.js",
-  "lib/simple.js"
+  "lib/simple.js",
+  "lib/helpers.js"
   ]
 }
